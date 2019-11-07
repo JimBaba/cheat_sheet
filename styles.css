@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica;
+}
+
+table {
+    margin: 20px auto;
+}
+
+td {
+    border: 2px solid black;
+}
+
+th {
+    text-align: left;
+    border: 2px solid black;
+}
+
+.comment {
+    font-size: 12px;
+}
+
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+    height: 800px;
+}
+
+.left {
+    width: 150px;
+}
